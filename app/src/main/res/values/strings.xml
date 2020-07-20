@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Corona Test</string>
+    <string name="main_title">Corona Test</string>
+    <string name="title_test">Take a Test</string>
+    <string name="title_history">History</string>
+</resources>
